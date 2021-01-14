@@ -1,0 +1,13 @@
+
+body {font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;}
+h1{font-size: 50px;}
+.highlighter{color: blue;}
+.half-width{
+    float: left;
+    width: 40%;
+    margin: 2%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;}
