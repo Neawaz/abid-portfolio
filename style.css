@@ -46,10 +46,12 @@ p{
     box-shadow: 10px 10px 35px grey;
     height: 55%;
 }
-.fotter-section{
+.experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left center;
+    background-color: white ;
+
 }
 #full-stack{
     border-left: 10px solid;
@@ -60,4 +62,8 @@ p{
     border-left: 10px solid;
     border-image: linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color: blue;
 }
