@@ -4,7 +4,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;}
 h1{font-size: 50px;}
-.highlighter{color: blue;}
+.highlighter{color: rgba(255, 187, 0, 0.973);}
 .half-width{
     float: left;
     width: 40%;
@@ -38,3 +38,26 @@ p{
     text-align: justify;
     width: 85%;
     }
+.fotter-section {
+    padding: 30px;
+}
+.single-experience{
+
+    box-shadow: 10px 10px 35px grey;
+    height: 55%;
+}
+.fotter-section{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+#full-stack{
+    border-left: 10px solid;
+    border-image: linear-gradient(180deg, rgb(76, 255, 5), rgb(56, 209, 9));
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 10px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
